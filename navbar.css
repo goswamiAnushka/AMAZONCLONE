@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    color:white;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+
+}
+#logo{
+    color:#f08804;
+    text-decoration: none;
+    padding-right: 100px;
+}
+#logo1{
+    padding-right: 100px;
+    text-decoration: none;
+}
+#logo2{
+    padding-right: 100px;
+    text-decoration: none;
+}
+#logo3{
+    padding-right: 100px;
+    text-decoration: none;
+}
+button{
+    background-color: #f08804;
+}
